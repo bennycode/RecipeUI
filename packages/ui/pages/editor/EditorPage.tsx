@@ -66,7 +66,7 @@ function NewRequest() {
       }
     >
       {!isTauri && (
-        <div className="bg-accent sm:hidden p-4 self-start">
+        <div className="bg-accent sm:hidden p-4 self-start dark:text-white">
           <p>
             Our web editor is not mobile friendly. Please visit our home page
             and play around with other examples!
